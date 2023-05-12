@@ -1,0 +1,2 @@
+# forchatgpt
+bugs for chatgpt
